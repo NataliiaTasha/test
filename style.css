@@ -1,0 +1,13 @@
+/*
+Theme Name: Custom Theme
+Theme URI: https://example.com/
+Author: Your Name
+Description: Custom WordPress Theme with Interactive Lights
+Version: 1.0
+*/
+
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #111;
+}
